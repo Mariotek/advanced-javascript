@@ -1,0 +1,7 @@
+# Cruft
+.DS_Store
+npm-debug.log
+.idea
+/.vscode/
+/node_modules/
+docs
